@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36749
     wikipedia: http://en.wikipedia.org/wiki/Charles_Prestwood_Lucas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34080#A-Historical-Geography-of-the-British-ColoniesVol.-V-Canada-Part-I-Historical
 gutenberg_issued: '2010-10-16'
 gutenberg_type: Text
 identifiers:
